@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NYC Jazz Record Calendar</string>
+    <string name="btnArtists">Events</string>
+    <string name="btnVenues">Venues</string>
+    <string name="btnDates">Dates</string>
+    <string name="txtCoverDescription">NYCJR Cover Page</string>
+    <string name="txtLogoDescription">NYCJR Logo</string>
+    <string name="app_label">NYCJR Calendar</string>
+    <string name="search_hint">Search for Artist or Venue</string>
+    <string name="txtEventName">Event Name</string>
+    <string name="txtGitHub">GitHub Test</string>
+</resources>
+
